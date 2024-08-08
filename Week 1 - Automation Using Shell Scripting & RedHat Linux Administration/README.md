@@ -3,8 +3,7 @@
 Welcome to Week 1 of the DevOps Project! This week focuses on **Automation Using Shell Scripting** and **RedHat Linux Administration**. 
 
 ## Overview
-
-Welcome to the **Project Name** repository! This project is currently under development, and we are actively working on new features and improvements. We appreciate your patience and support as we continue to build and enhance this project.
+This project is currently under development, and we are actively working on new features and improvements. We appreciate your patience and support as we continue to build and enhance this project.
 
 ## Current Status
 
