@@ -1,4 +1,6 @@
-# Project Name
+# Week 1 - Automation Using Shell Scripting & RedHat Linux Administration
+
+Welcome to Week 1 of the DevOps Project! This week focuses on **Automation Using Shell Scripting** and **RedHat Linux Administration**. 
 
 ## Overview
 
@@ -9,11 +11,7 @@ Welcome to the **Project Name** repository! This project is currently under deve
 - **Under Development**: The project is actively being worked on, and new updates are coming soon.
 - **New Release**: We are preparing for a new release that will include exciting features and improvements. Stay tuned for updates!
 
-# Week 1 - Automation Using Shell Scripting & RedHat Linux Administration
-
-Welcome to Week 1 of the DevOps Project! This week focuses on **Automation Using Shell Scripting** and **RedHat Linux Administration**. 
-
-## Overview
+## Overview New upcoming.................
 
 This week is designed to introduce you to the fundamentals of shell scripting and RedHat Linux administration. You will learn how to automate tasks using shell scripts and gain essential skills in managing RedHat Linux systems.
 
