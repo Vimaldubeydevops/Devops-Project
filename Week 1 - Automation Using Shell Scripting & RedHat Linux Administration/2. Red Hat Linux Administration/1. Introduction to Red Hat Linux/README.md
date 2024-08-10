@@ -10,7 +10,7 @@ This section introduces Red Hat Linux, focusing on its core features and functio
 
 ## Topics Covered
 
-- **What is Red Hat Linux?**
+- *What is Red Hat Linux?*
   A popular enterprise Linux distribution known for its stability and support.
 - **Key Features**
   - Robust performance
@@ -19,9 +19,9 @@ This section introduces Red Hat Linux, focusing on its core features and functio
 
 ## Getting Started
 
-1. **Installation**
+1. *Installation*
    Follow the official installation guide to set up Red Hat Linux.
-2. **Initial Setup**
+2. *Initial Setup*
    Perform initial configuration tasks like setting up networking and updating the system.
 
 ## Resources
